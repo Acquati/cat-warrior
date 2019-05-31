@@ -1,5 +1,5 @@
 new Vue({
-  el: "app",
+  el: "#app",
   data: {
     playerMaxHealth: 100,
     playerHealth: 0,
