@@ -6,6 +6,12 @@ ul {
   padding-left: 0;
 }
 
+.github {
+    text-align: center;
+    margin: 20px auto;
+    display: block;
+}
+
 .character-image {
   height: 150px;
   margin: 0 auto;
